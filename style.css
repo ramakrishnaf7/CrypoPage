@@ -104,3 +104,15 @@ nav .btn{
     color: #fff;
     margin-bottom: 5px;
 }
+
+@media (max-width: 768px) {
+    /* Styles for tablets and smaller devices */
+}
+@media (max-width: 480px) {
+    /* Styles for mobile devices */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
